@@ -1,0 +1,51 @@
+.card {
+  padding: 10px;
+  margin-bottom: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+}
+
+.card2 {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.textSpan {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.product-container {
+  padding: 20px;
+}
+
+.product-carousel {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+
+.imgSpan {
+  max-width: 20rem;
+  display: block;
+}
+
+.slick-prev,
+.slick-next {
+  font-size: 24px;
+  color: #333;
+}
+
+.slick-prev:hover,
+.slick-next:hover {
+  color: #000;
+}
